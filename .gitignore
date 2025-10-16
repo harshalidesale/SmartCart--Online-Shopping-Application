@@ -3,7 +3,10 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-
+/brand-logos/
+/category-images/
+/product-images/
+/site-logo/
 ### STS ###
 .apt_generated
 .classpath
@@ -31,6 +34,3 @@ build/
 
 ### VS Code ###
 .vscode/
-/brand-logos/
-/category-images/
-/product-images/
