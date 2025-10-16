@@ -1,10 +1,10 @@
 ## 1. Project Title
 
-"Shopme" - An E Commerce Electronics Store
+"Shopme" - An SmartCart Application Store
 
 ## 2. Project Overview 
 
-**Shopme** is a full-stack e-commerce web application developed using modern Java and Spring technologies. It offers a comprehensive online shopping experience for customers and robust administrative tools for managing the store. The project is adapted from the Udemy course: [Java Spring Boot E-Commerce Ultimate Course](https://www.udemy.com/course/spring-boot-e-commerce-ultimate/) by Nam Ha Minh.
+**Shopme** is a full-stack e-commerce web application developed using modern Java and Spring technologies. It offers a comprehensive online shopping experience for customers and robust administrative tools for managing the store. 
 
 ## 3. User Roles & Features
 
